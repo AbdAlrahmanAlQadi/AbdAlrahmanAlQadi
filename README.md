@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m AbdAlrahman AlQadi</h1>
+<h2>- 👋 Hi, I’m AbdAlrahman AlQadi</h2>
 - 🎓 Graduated in Software Engineering at Al-Zaytoonah University <br>
 - 🧑‍💻 Back-End Developer Internship at JoAcademy 
 
