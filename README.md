@@ -1,5 +1,5 @@
 <h1>- 👋 Hi, I’m AbdAlrahman AlQadi</h1>
-- 🎓 Graduated in Software Engineering at Al-Zaytoonah University
+- 🎓 Graduated in Software Engineering at Al-Zaytoonah University <br>
 - 🧑‍💻 Back-End Developer Internship at JoAcademy 
 
 
