@@ -1,6 +1,6 @@
 <h2>- 👋 Hi, I’m AbdAlrahman AlQadi</h2>
 - 🎓 Graduated in Software Engineering from Al-Zaytoonah University <br>
-- 🧑‍💻 Back-End Developer Internship at JoAcademy <br>
+- 🧑‍💻 Back-End Developer at JoAcademy <br>
 - 📍 Amman - Jordan
 
 
